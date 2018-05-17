@@ -13,4 +13,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![status](https://img.shields.io/badge/status-creating-red.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)(https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
