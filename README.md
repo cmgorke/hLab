@@ -1,6 +1,5 @@
 <p align="center"><img width=20% src="https://github.com/cmgorke/hLab/blob/master/resources/images/png-colored-round-Labyrinth.png"></p>
 <h1 align="center">TheedaSyn</h1>
-<h2>Projects from the home lab.</h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Scripting Languages: Python, JS, PS, Bash](https://img.shields.io/badge/scripting-Python%20%7C%20JS%20%7C%20PS%20%7C%20Bash%20-blue.svg)
@@ -14,3 +13,6 @@
 ![status](https://img.shields.io/badge/status-creating-red.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
+<h2>Projects from the home lab.</h2>
